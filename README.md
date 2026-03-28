@@ -5,13 +5,13 @@
 - Passionate about Artificial Intelligence, Machine Learning, and Data Science  
 - Strong foundation in Data Structures, Algorithms, and Data Analytics  
 - Interested in building real-world ML solutions and web applications  
-- Team player with strong problem-solving and communication skills  
+
 
 ## Skills
 
 ### Programming & Technologies
 - HTML, CSS, JavaScript  
-- Python, C  
+- Python,
 - MySQL (Joins, Queries, CRUD)  
 
 ### Data Analysis & ML
@@ -23,22 +23,17 @@
 ### Data Visualization
 - Matplotlib, Seaborn  
 - Power BI  
-- Advanced MS Excel  
+
 
 ### Tools & Platforms
 - Git & GitHub  
-- IBM Cloud  
+   
 
 ### Core Concepts
 - Data Structures & Algorithms  
 - Machine Learning  
 - Cloud Computing  
-
-### Soft Skills
-- Communication & Presentation  
-- Analytical Thinking  
-- Problem Solving  
-- Team Collaboration & Adaptability  
+  
 
 ## Projects
 
