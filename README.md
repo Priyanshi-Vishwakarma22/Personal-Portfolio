@@ -36,16 +36,17 @@
   
 
 ## Projects
+## 📊 Customer Behavior Analysis (Data Analytics Project)
 
-###Customer Behavior Analysis (Data Analytics Project)
-- Performed complete end-to-end data analytics workflow using Python, SQL Server, and Power BI
-- Loaded, cleaned, and transformed customer transaction data for analysis
-- Conducted Exploratory Data Analysis (EDA) to identify customer trends, patterns, and revenue drivers
-- Wrote SQL queries to calculate business metrics, segment customers, and analyze purchasing behavior
-- Built an interactive Power BI dashboard with KPIs, charts, filters, and performance metrics
-- Created reports and presentations to communicate actionable business insights effectively
+- Performed complete end-to-end data analytics workflow using Python, SQL Server, and Power BI  
+- Loaded, cleaned, and transformed customer transaction data for analysis  
+- Conducted Exploratory Data Analysis (EDA) to identify customer trends, patterns, and revenue drivers  
+- Wrote SQL queries to calculate business metrics, segment customers, and analyze purchasing behavior  
+- Built an interactive Power BI dashboard with KPIs, charts, filters, and performance metrics  
+- Created reports and presentations to communicate actionable business insights effectively  
 
-- Tech Used: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL Server, Power BI, 
+### 🛠️ Tech Used
+Python (Pandas, NumPy, Matplotlib, Seaborn), SQL Server, Power BI.
 
 ### AI-Powered Job Portal (Hackathon Project)
 - Developed an intelligent job portal with AI-based resume screening  
